@@ -8,4 +8,5 @@ El Modelo ha sido entrenado con un dataset de 63.573 etiquetadas, 59.833 de entr
 [Modelo Experto](https://www.dropbox.com/t/N9iJqnxOFBSzMCrR)
 
 Si quieres descubrir nuestro Modelo Principiante, puedes hacerlo en [Roboflow](https://universe.roboflow.com/amadeo-x5pc0/dsigncloud-red.es_windowsdetectionmodel). ¡Introduce tus fotografías de fachadas y PONLO A PRUEBA!
+
 [Modelo principiante](https://www.dropbox.com/t/lBBoGhOHrBRUQdVp).
